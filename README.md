@@ -9,7 +9,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have good teaching skill.
 
-<!---
-Mageshs2002/Mageshs2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I Write about the intresting topics from Basic level to advanced scientific discovery in my Blog: You can read some of my writing in my Blog and Quoro as well. 
+- Blog:  https://www.blogger.com/blog/posts/7887518692003117305
+-  Quoro: quora.com/profile/Magesh-S-112
