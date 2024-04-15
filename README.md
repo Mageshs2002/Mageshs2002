@@ -1,5 +1,5 @@
  ## HI THERE 
-- I'm ==Magesh S== currently pursuing Masters in Biotechnology at SRM University, Chennai. 
+- I'm ==MageshS== currently pursuing Masters in Biotechnology at SRM University, Chennai. 
 - 👀 I’m interested in study of Basic Cancer research using Immune cells & Using Plant secondary metabolites as anti-cancer effects and also intrested in Bioinformatics (handling of Software,Tools) 
 - 🌱 I’m currently learning Immunotechnology, Animal Biotechnology, Industrial Biotechnology, Biophysics, Clinical trials, Nanotechnology, Python. 
 - 💞️ I’m would like to work and spend my valuable time with people who are intrested in the field of Biotechnology and other life science field.
