@@ -12,4 +12,4 @@
 
 I Write about the intresting topics from Basic level to advanced scientific discovery in my Blog: You can read some of my writing in my Blog and Quoro as well. 
 1. Blog:  https://www.blogger.com/blog/posts/7887518692003117305
-2. Quoro: quora.com/profile/Magesh-S-112
+2. Quoro: https://www.quora.com/profile/Magesh-S-112
