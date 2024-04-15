@@ -1,15 +1,35 @@
- ## Hi there
-- I'm Magesh currently pursuing Masters in Biotechnology at SRM University, Chennai. 
-- 👀 I’m interested in study of Basic Cancer research using Immune cells & Using Plant secondary metabolites as anti-cancer effects and also intrested in Bioinformatics (handling of Software,Tools) 
-- 🌱 I’m currently learning Immunotechnology, Animal Biotechnology, Industrial Biotechnology, Biophysics, Clinical trials, Nanotechnology, Python. 
-- 💞️ I’m would like to work and spend my valuable time with people who are intrested in the field of Biotechnology and other life science field.
-- 📫 How to reach me:
-- <br /> Mail ID:  mageshssan@gmail.com
-     Mobile No:9384463486
-     LinkedIn: www.linkedin.com/in/magesh-s-678ab722b
-- 😄 Pronouns: Biotechnologist
-- ⚡ Fun fact: I have good teaching skill.
+## Hi there 👋 It's me Magesh 
 
-I Write about the intresting topics from Basic level to advanced scientific discovery in my Blog: You can read some of my writing in my Blog and Quoro as well. 
-1. Blog:  https://www.blogger.com/blog/posts/7887518692003117305
-2. Quoro: https://www.quora.com/profile/Magesh-S-112
+Biotechnology Student @ SRM University,Chennai.
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+- 🔭 Here's my                                              
+- 🌱 I’m currently learning Bioinformatics tools, Programming (especially Python and Linux), Immunotechnology, Animal Biotechnology, annd Biophysics. 
+- 👯 I’m looking to collaborate   with biotechnology companies allows me to gain real-world experience, access industry-specific resources, and potentially contribute to cutting-edge research and development projects.
+- 🤔 I’m looking for help with various challenges like Advancing Medicinal and healthare, Improving Industrial process, Enchancing the Biotech Innovation.
+- 💬 Ask me about Life-Science.
+- 📫 How to reach me :
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/magesh-s-678ab722b/)
+- 😄 Pronouns: Biotechnologist
+- ⚡ Fun fact: I don't know what is Oncology.
+- ![Quora Views](https://www.quora.com/profile/Magesh-S-112)
+
+
+### Bioinformatics Databases I Use
+DNA Databases: Primary Databases -> GenBank, EMBL, DDBJ.
+Protien Databases: Primary Databases -> PDB, PDBsum, Pubmed, Pubmed Central.
+                   Secondary Databases -> UniProt.
+
+### Bioinformatics Tools I Use
+                   
+
+
+
+
+### 💻 Workspace Spec
+<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+
+![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+
+[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
